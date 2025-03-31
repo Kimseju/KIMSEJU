@@ -13,7 +13,6 @@
   ## 👀 About Me
   #### :raising_hand: I am a Developer from South Korea.<br/>
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language

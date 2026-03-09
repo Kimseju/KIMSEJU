@@ -1,13 +1,4 @@
 <div>
-  
-  <!--Header-->
-  ![header](https://camo.githubusercontent.com/3748e8152e8a0638da722baeb360f98118b1d8bba8fe2b0530ad700032765f03/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d3130)
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Wellcome%20to%20Seju%20Github&fontColor=000000)
-  ![header](https://camo.githubusercontent.com/3748e8152e8a0638da722baeb360f98118b1d8bba8fe2b0530ad700032765f03/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d3130)
-  
-</div>
-
-<div>
   <!--Body-->
   
   ## 👀 About Me
@@ -16,7 +7,9 @@
   
   ## 🧱 Tech Stack
   ### Language
+  
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-#00ADD8?style=flat-square&logo=Python&logoColor=white"/>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->

@@ -46,10 +46,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=dbwls05&show_icons=true&theme=tokyonight" height="170"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Kimseju&show_icons=true&theme=tokyonight" height="170"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dbwls05&layout=compact&langs_count=6&theme=tokyonight" height="170"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kimseju&layout=compact&langs_count=6&theme=tokyonight" height="170"/>
     </td>
   </tr>
 </table>
